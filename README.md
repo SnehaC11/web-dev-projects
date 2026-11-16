@@ -88,8 +88,8 @@ No installation needed.
 
 ```bash
 # Clone the repository
-git clone https://github.com/SnehaC11/web-dev-projects>.git
-cd <web-dev-projects>
+git clone https://github.com/SnehaC11/web-dev-projects.git
+cd web-dev-projects
 ```
 
 Then open the `index.html` file inside any project folder in your browser. Optionally, use the VS Code **Live Server** extension for auto-reload.
