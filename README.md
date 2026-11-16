@@ -1,6 +1,6 @@
 # 🌐 Web Development Projects
 
-A collection of beginner-to-intermediate front-end projects built with **HTML, CSS, and vanilla JavaScript**, no frameworks or build tools. Each project lives in its own folder and runs directly in the browser.
+A collection of beginner-to-intermediate front-end projects built with **HTML, CSS, and vanilla JavaScript**, no frameworks or build tools.
 
 🔗 **[View all live demos](https://snehac11.github.io/web-dev-projects/)**
 
