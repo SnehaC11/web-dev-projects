@@ -1,21 +1,25 @@
 # 🌐 Web Development Projects
 
-A collection of beginner-to-intermediate front-end projects built with **HTML, CSS, and vanilla JavaScript**, no frameworks or build tools.
+A collection of beginner-to-intermediate front-end projects built with **HTML, CSS, and vanilla JavaScript**, no frameworks or build tools. Each project lives in its own folder and runs directly in the browser.
+
+🔗 **[View all live demos](https://snehac11.github.io/web-dev-projects/)**
 
 ## 📚 Projects
 
 | # | Project | Type | What it showcases |
 |---|---------|------|-------------------|
-| 1 | [Currency Converter](./Currency%20convertor) | Utility app | Fetch API, async/await, live exchange rates |
-| 2 | [E-Commerce Website](./E-Commerce%20website) | Multi-section site | Working cart & wishlist, `localStorage`, responsive layout |
-| 3 | [Restaurant Website](./Restaurant%20website) | Landing page | Menu sections, scroll-aware header, contact form |
-| 4 | [Snake Game](./Snake%20game) | Game | Game loop, collision logic, sound effects, high score |
-| 5 | [Stone Paper Scissors](./Stone%20paper%20scissor%20game) | Game | DOM events, randomness, score tracking |
-| 6 | [Tic-Tac-Toe](./TicTacToe%20game) | Game | Win-pattern logic, game state, reset flow |
+| 1 | [Currency Converter](https://snehac11.github.io/web-dev-projects/Currency%20convertor/) | Utility app | Fetch API, async/await, live exchange rates |
+| 2 | [E-Commerce Website](https://snehac11.github.io/web-dev-projects/E-Commerce%20website/) | Multi-section site | Working cart & wishlist, `localStorage`, responsive layout |
+| 3 | [Restaurant Website](https://snehac11.github.io/web-dev-projects/Restaurant%20website/) | Landing page | Menu sections, scroll-aware header, contact form |
+| 4 | [Snake Game](https://snehac11.github.io/web-dev-projects/Snake%20game/) | Game | Game loop, collision logic, sound effects, high score |
+| 5 | [Stone Paper Scissors](https://snehac11.github.io/web-dev-projects/Stone%20paper%20scissor%20game/) | Game | DOM events, randomness, score tracking |
+| 6 | [Tic-Tac-Toe](https://snehac11.github.io/web-dev-projects/TicTacToe%20game/) | Game | Win-pattern logic, game state, reset flow |
 
 ---
 
 ## 1. 💱 Currency Converter
+
+🔗 **[Live Demo](https://snehac11.github.io/web-dev-projects/Currency%20convertor/)** · 📂 [Source Code](./Currency%20convertor)
 Converts an amount between world currencies using live exchange rates.
 
 - Dropdowns populated dynamically from a currency-to-country map (`codes.js`)
@@ -26,6 +30,8 @@ Converts an amount between world currencies using live exchange rates.
 **Stack:** HTML, CSS, JavaScript · **Needs internet** (rates and flag images are loaded from external services)
 
 ## 2. 🌸 E-Commerce Website (Blossom)
+
+🔗 **[Live Demo](https://snehac11.github.io/web-dev-projects/E-Commerce%20website/)** · 📂 [Source Code](./E-Commerce%20website)
 A flower-shop storefront with a working shopping cart and wishlist.
 
 - Sections: Home, About (with autoplay video), Products, Reviews, Contact
@@ -41,6 +47,8 @@ A flower-shop storefront with a working shopping cart and wishlist.
 **Stack:** HTML, CSS, JavaScript (DOM manipulation, event delegation, `localStorage`)
 
 ## 3. 🍽️ Restaurant Website (The Big Bite)
+
+🔗 **[Live Demo](https://snehac11.github.io/web-dev-projects/Restaurant%20website/)** · 📂 [Source Code](./Restaurant%20website)
 A landing page for a multi-cuisine restaurant.
 
 - Hero banner, About Us, Menu (Breakfast / Lunch / Dinner with images), and Timings
@@ -52,6 +60,8 @@ A landing page for a multi-cuisine restaurant.
 **Stack:** HTML, CSS, JavaScript
 
 ## 4. 🐍 Snake Game (SnakeMania)
+
+🔗 **[Live Demo](https://snehac11.github.io/web-dev-projects/Snake%20game/)** · 📂 [Source Code](./Snake%20game)
 The classic snake game with sound and persistent scoring.
 
 - **Controls:** Arrow keys (any key press starts the game)
@@ -63,6 +73,8 @@ The classic snake game with sound and persistent scoring.
 **Stack:** HTML, CSS, JavaScript
 
 ## 5. ✊✋✌️ Stone Paper Scissors
+
+🔗 **[Live Demo](https://snehac11.github.io/web-dev-projects/Stone%20paper%20scissor%20game/)** · 📂 [Source Code](./Stone%20paper%20scissor%20game)
 Play against the computer.
 
 - Click a choice; the computer picks randomly
@@ -72,6 +84,8 @@ Play against the computer.
 **Stack:** HTML, CSS, JavaScript
 
 ## 6. ⭕❌ Tic-Tac-Toe
+
+🔗 **[Live Demo](https://snehac11.github.io/web-dev-projects/TicTacToe%20game/)** · 📂 [Source Code](./TicTacToe%20game)
 Two-player game on a 3×3 board.
 
 - Alternating turns (O goes first)
@@ -114,3 +128,16 @@ Each project folder contains `index.html`, `style.css`, `script.js`, plus any im
 - CSS3 (Flexbox, Grid, responsive design)
 - JavaScript (ES6+, DOM manipulation, Fetch API, `localStorage`)
 - Font Awesome and Google Fonts
+
+## 🔮 Future Improvements
+- Real checkout and payments for the e-commerce site (needs a backend)
+- Working contact forms with validation and a backend
+- Single-player vs. computer mode for Tic-Tac-Toe
+- Mobile touch controls for Snake
+
+## 👩‍💻 Author
+**Sneha Chaturvedi**
+B.Tech CSE, Amity University Kolkata
+
+---
+⭐ If you found these projects useful, consider giving the repo a star!
